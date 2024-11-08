@@ -12,7 +12,7 @@ This project is built using Expo and React Native. It uses `expo-router` for nav
 1. Clone the repository:
 
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/ashiruhammed/telixir-assesment.git
     cd telixia-assessmnt
     ```
 
